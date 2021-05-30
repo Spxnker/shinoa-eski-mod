@@ -1,0 +1,65 @@
+{
+"botSettings": {
+    "botToken": "",
+    "botVoiceChannel": "",
+    "botOwners": [],
+    "prefix": "."
+},
+"mongoose": {
+    "mongoPath": ""
+},
+"guildSettings": {
+    "guildID": "792024260016603136",
+    "guildName": "",
+    "tag": "L"
+},
+"guildHammer": {
+    "jailHammer": "",
+    "banHammer": "",
+    "muteHammer": "",
+    "vmuteHammer": "",
+    "auth": "817300609446182922"
+},
+"guildLogs": {
+"banLogs": "807880688233480202",
+"jailLogs": "807880673884897311",
+"muteLogs": "807880707736862751",
+"vmuteLogs": "807880724732575794"
+},
+
+"guildRoles": {
+    "jailRole": "811705637594595365",
+    "vmuteRole": "811705637594595365",
+    "muteRole": "811705637594595365",
+    "boosterRole": "811705637594595365  ",
+    "unregister": "811705637594595365",
+    "sus": ""
+},
+"reg": {
+    "regHammer":"",
+    "erkekRoles": ["792040080163209246","792040080998531114"],
+    "kariRoles": [],
+    "familyRole": ""
+
+},
+"yetkiliRole": {
+    "enAltYetkiliRole": "813666479375515669"
+},
+"emojiler": {
+    "mute": "",
+    "unmute": "",
+    "def": "",
+    "undef": "",
+    "onay": "815832221104865310",
+    "red": "815831998839914506" 
+},
+"yasakliTag": {
+    "yasakliTagRole": ""
+},
+"ekstraRoles": {
+"vip": "",
+"lovers": "",
+"muzisyen": "",
+"sponsor": ""
+}
+}
